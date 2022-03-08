@@ -9,8 +9,8 @@
 <h1> Hello, I am Ma.Yna Maurich Gellaco, this is my first web page. </h1>
 <ul>
 	<li><a href = "index.php"> HOME</a></li>
-	<li><a href = "/LT2/index.html"> LEARNING TASK</a></li>
-	<li><a href = "/LT3/index.html"> LEARNING TASK</a></li>
+	<li><a href = "/LT2/index.html"> LEARNING TASK 2</a></li>
+	<li><a href = "/LT3/index.html"> LEARNING TASK 3</a></li>
 </ul>
 </body>
 </html>
