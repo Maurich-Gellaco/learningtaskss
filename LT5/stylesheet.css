@@ -1,0 +1,30 @@
+body{
+    background-image: url(dog.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+}
+#wrapper{
+    width: 1000px;
+    min-height: 650px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+
+            h1{
+                font-family: 'Fredoka';
+                font-size:  80px;
+                text-align:  center;
+                padding-top: 12px;
+                color:#CD9B8D ;
+                background-color:rgba(152, 170, 190,  0.400);
+            }
+            h2{
+                font-family: 'Bungee Inline';
+                text-indent: 100px;
+                font-size:  55px;
+                text-align:  left;
+                padding-top: 13px;
+                color:#CF7802   ;
+            }
